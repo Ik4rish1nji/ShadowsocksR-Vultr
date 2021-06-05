@@ -1,4 +1,4 @@
-# [ShadowsocksR/SSR搭建教程2021]使用 Vultr VPS 自建SSR服务器及ShadowsocksR节点配置客户端实现科学上网
+# [ShadowsocksR/SSR搭建教程2021]使用 Vultr VPS 自建SSR服务器及ShadowsocksR节点配置客户端实现科学上网-转载于[一灯不是和尚](https://iyideng.net/black-technology/cgfw/shadowsocksr-ssr-server-building-and-using-tutorial.html)
 
 本系列教程适合新手小白，当然老鸟也可以看看，也许会有你还不知道的黑科技。一灯不是和尚手把手教你搭建SS/SSR/V2Ray/Trojan节点服务器并实现科学上网，这可能是史上最全、最简单、最适合小白萌新的ShadowsocksR/SSR搭建教程。本教程内容包括购买域名和VPS，远程连接并管理VPS和一键搭建ShadowsocksR/SSR服务器，并开启BBR加速以及ShaodowsocksR/SSR客户端配置方法。
 
