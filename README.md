@@ -183,15 +183,15 @@ cd /usr/src && wget -N --no-check-certificate "https://raw.githubusercontent.com
 ## 5、ShadowsocksR/SSR客户端配置
 
 关于ShadowsocksR/SSR客户端配置使用教程，请参考文章[SS/SSR客户端下载、安装与配置使用教程 | 支持Windows/Android/iOS/Mac/Linux/路由器全平台](
-https://iyideng.net/black-technology/cgfw/ss-ssr-client-download-and-installation-tutorial.html)
+https://iyideng.win/black-technology/cgfw/ss-ssr-client-download-and-installation-tutorial.html)
   
 ## 6、ShadowsocksR/SSR节点购买网址推荐
 
-不管你是新手，还是老鸟，使用一键脚本搭建ShadowsocksR/SSR服务器都很简单，喜欢折腾的用户可以尝试更多高级的玩法。如果你不喜欢折腾，只是想要一个稳定可靠的科学上网工具，那么我推荐你使用SSR机场购买SSR节点。有没有比较好的付费SSR节点购买网站？付费SSR节点购买网址推荐你使用[CMYNetwork红莓网络](https://iyideng.net/special/bgfw/cmynetwork-trojan-ssr-iplc-iepl.html) 或[心阶云](https://iyideng.net/special/bgfw/xinjiecloud-ssr-v2ray.html)，CMYNetwork红莓网络是一家中高端的SSR/Trojan机场，在全球拥有超过90个优质的服务器节点，其中包括45条 IPLC/IEPL 内网专线、1条企业专线和1条游戏专线等昂贵的顶级线路，还有超过15条 CN2 GIA 线路以及大约30条直连线路；心阶云是一家长期经营中高端线路的SSR/V2Ray机场，大部分节点使用BGP隧道中转，极速稳定，还有少部分IPLC内网专线，已经是3年平价老站了，流量套餐的性价比非常高。
+不管你是新手，还是老鸟，使用一键脚本搭建ShadowsocksR/SSR服务器都很简单，喜欢折腾的用户可以尝试更多高级的玩法。如果你不喜欢折腾，只是想要一个稳定可靠的科学上网工具，那么我推荐你使用SSR机场购买SSR节点。有没有比较好的付费SSR节点购买网站？付费SSR节点购买网址推荐你使用[CMYNetwork红莓网络](https://iyideng.win/special/bgfw/cmynetwork-trojan-ssr-iplc-iepl.html) 或[心阶云](https://iyideng.win/special/bgfw/xinjiecloud-ssr-v2ray.html)，CMYNetwork红莓网络是一家中高端的SSR/Trojan机场，在全球拥有超过90个优质的服务器节点，其中包括45条 IPLC/IEPL 内网专线、1条企业专线和1条游戏专线等昂贵的顶级线路，还有超过15条 CN2 GIA 线路以及大约30条直连线路；心阶云是一家长期经营中高端线路的SSR/V2Ray机场，大部分节点使用BGP隧道中转，极速稳定，还有少部分IPLC内网专线，已经是3年平价老站了，流量套餐的性价比非常高。
 
 ## 7、ShadowsocksR/SSR一键搭建教程结语
 
-如果你有一定的计算机网络技术基础，还懂得那么一点英文的话，一键搭建ShadowsocksR/SSR服务器是一件非常简单的事情；否则，对你来说还真是有点麻烦，因为从购买域名和选择VPS、远程登录和执行安装代码等，都是一件很闹心的事情，尤其是有问题的时候，一定会让你崩溃，甚至想放弃。如果你已经决定自建ShadowsocksR/SSR服务器（即SSR加速器），那么搭梯子VPS推荐你用[Vultr](https://iyideng.net/special/vps/latest-vultr-vps-registration-purchase-and-installation-system-tutorial.html)，一旦被墙，能很方便地免费更换IP，搭建时请尽可能使用较新的加密方式；否则，请安心使用SSR机场，我推荐你使用[CMYNetwork红莓网络](https://iyideng.net/special/bgfw/cmynetwork-trojan-ssr-iplc-iepl.html) 或[心阶云](https://iyideng.net/special/bgfw/xinjiecloud-ssr-v2ray.html)。
+如果你有一定的计算机网络技术基础，还懂得那么一点英文的话，一键搭建ShadowsocksR/SSR服务器是一件非常简单的事情；否则，对你来说还真是有点麻烦，因为从购买域名和选择VPS、远程登录和执行安装代码等，都是一件很闹心的事情，尤其是有问题的时候，一定会让你崩溃，甚至想放弃。如果你已经决定自建ShadowsocksR/SSR服务器（即SSR加速器），那么搭梯子VPS推荐你用[Vultr](https://iyideng.win/special/vps/latest-vultr-vps-registration-purchase-and-installation-system-tutorial.html)，一旦被墙，能很方便地免费更换IP，搭建时请尽可能使用较新的加密方式；否则，请安心使用SSR机场，我推荐你使用[CMYNetwork红莓网络](https://iyideng.win/special/bgfw/cmynetwork-trojan-ssr-iplc-iepl.html) 或[心阶云](https://iyideng.win/special/bgfw/xinjiecloud-ssr-v2ray.html)。
   
 # 郑重声明：本教程仅限于查阅学习资料和从事科研外贸工作的人群，所涉及到的工具资源均来自于互联网，本站对这些资源的可用性、安全性和版权不负有任何责任。如有侵权，请联系我删除。使用过程中，请您务必遵守当地的法律法规。
   
